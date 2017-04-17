@@ -1,1 +1,1 @@
-# JavaGUI
+# JavaGUI Github/GUI Intro Lab
